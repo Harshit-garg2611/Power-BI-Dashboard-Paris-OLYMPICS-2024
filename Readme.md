@@ -1,4 +1,8 @@
 # Olympics DashBoard : 
+![Overview Page](./Output/Screenshot%20(297).png)
+![Disciplines](./Output/Screenshot%20(298).png)
+![Athketes](./Output/Screenshot%20(299).png)
+# Steps to integrate dynamic data set with PowerBi :
 
 ## Step 1: Setting Up Kaggle API and Python Environment 
 ### Create an API Token: 
