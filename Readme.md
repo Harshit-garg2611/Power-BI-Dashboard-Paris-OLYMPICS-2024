@@ -12,3 +12,5 @@ Run : ```pip install kaggle pandas```
 > Run this python script in Power BI dashboard . 
 
 # Import data in Power BI 
+
+# Build Power BI dashboard
